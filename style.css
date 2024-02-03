@@ -1,3 +1,43 @@
-{
+body {
+    background: #e3f9ff;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+#container {
+    background:#3a4452;
+    border: 5px solid black;
+    height: 300px;
+    width: 750px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 200px;
+    border-radius: 50px;
+    box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1), 5px 5px 15px rgba(0, 0, 0, 0.2);
+    
+    
+}
+
+#btn {
+margin: 50px auto;
+height: 50px;
+width: 250px;
+font-size: 22px;
+background-color: beige;
+cursor: pointer;
+}
+
+#output {
+    margin: 25px auto;
+    font-size: 26px;
+    color: white;
+
+}
+
+#heading{
+    margin: 25px auto;
+    font-size: 26px;
+    color: white;
+
 
 }
